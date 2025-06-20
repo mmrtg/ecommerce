@@ -1,5 +1,5 @@
 # Queries
-# # Recuperação simples com SELECT
+## Recuperação simples com SELECT
 _Pergunta: Quais são os nomes dos clientes e seus tipos?_
 `SELECT nome, tipo_cliente
 FROM clientes;`
